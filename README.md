@@ -1,4 +1,5 @@
 ---
+noIndex: true
 layout:
   width: default
   title:
