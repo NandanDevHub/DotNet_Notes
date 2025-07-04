@@ -1,22 +1,3 @@
----
-description: >-
-  A collection of concise notes on .NET technologies, synced with GitBook for
-  easy reference and continuous documentation.
-hidden: true
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # DotNet Notes 📘
 
 ### 📄 Contents
