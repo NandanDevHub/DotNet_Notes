@@ -1,24 +1,23 @@
 ---
-noIndex: true
+description: >-
+  A collection of concise notes on .NET technologies, synced with GitBook for
+  easy reference and continuous documentation.
+hidden: true
 layout:
   width: default
   title:
-    visible: false
+    visible: true
   description:
-    visible: false
+    visible: true
   tableOfContents:
-    visible: false
+    visible: true
   outline:
-    visible: false
+    visible: true
   pagination:
-    visible: false
+    visible: true
 ---
 
-# Untitled
-
-## DotNet Notes 📘
-
-A collection of concise notes on .NET technologies, synced with GitBook for easy reference and continuous documentation.
+# DotNet Notes 📘
 
 ### 📄 Contents
 
