@@ -48,5 +48,4 @@
 
 ## Introduction to Modern Web Development with ASP.NET Core
 
-* [Page 1](introduction-to-modern-web-development-with-asp.net-core/page-1.md)
 * [Exploring RESTful Architecture Principles - Part 1](introduction-to-modern-web-development-with-asp.net-core/exploring-restful-architecture-principles-part-1.md)

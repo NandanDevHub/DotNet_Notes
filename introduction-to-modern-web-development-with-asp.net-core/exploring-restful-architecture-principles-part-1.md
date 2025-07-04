@@ -15,5 +15,5 @@ layout:
 
 # Exploring RESTful Architecture Principles - Part 1
 
-fdfdf
+
 
